@@ -1,0 +1,6 @@
+.venv/
+__pycache__/
+*.pyc
+BUs_Petrolina_2026/
+*.zip
+work/
